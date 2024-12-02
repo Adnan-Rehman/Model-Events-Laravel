@@ -1,0 +1,59 @@
+[
+    {
+        "title" : "News Title One",
+        "slug" : "news-title-one",
+        "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae, veritatis.",
+        "counter" : 0,
+        "user_id" : 1
+    },
+    {
+        "title" : "News Title Two",
+        "slug" : "news-title-two",
+        "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae, veritatis.",
+        "counter" : 0,
+        "user_id" : 2
+    },
+    {
+        "title" : "News Title Three",
+        "slug" : "news-title-three",
+        "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae, veritatis.",
+        "counter" : 0,
+        "user_id" : 1
+    },
+    {
+        "title" : "News Title Four",
+        "slug" : "news-title-four",
+        "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae, veritatis.",
+        "counter" : 0,
+        "user_id" : 3
+    },
+    {
+        "title" : "News Title Five",
+        "slug" : "news-title-five",
+        "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae, veritatis.",
+        "counter" : 0,
+        "user_id" : 3
+    },
+    {
+        "title" : "News Title Six",
+        "slug" : "news-title-six",
+        "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae, veritatis.",
+        "counter" : 0,
+        "user_id" : 1
+    },
+    {
+        "title" : "News Title Seven",
+        "slug" : "news-title-seven",
+        "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae, veritatis.",
+        "counter" : 0,
+        "user_id" : 3
+    },
+    {
+        "title" : "News Title Eight",
+        "slug" : "news-title-eight",
+        "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae, veritatis.",
+        "counter" : 0,
+        "user_id" : 2
+    }
+]
+
